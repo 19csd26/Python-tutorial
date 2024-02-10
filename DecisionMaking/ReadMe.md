@@ -27,6 +27,7 @@ The if-else statement is used to execute one block of code if the condition is t
   <img src="python-if-statement.png" alt="Image" width="200">
 </p>
 <h3>Example:</h3>
+
 ```python
 x = 3
 
