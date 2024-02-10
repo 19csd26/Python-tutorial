@@ -64,3 +64,26 @@ Collection of key-value pairs.
 ```python
 person = {'name': 'Alice', 'age': 30, 'city': 'New York'}
 ```
+## 5.Set Type
+
+### set
+Unordered collection of unique items, mutable.
+
+```python
+unique_numbers = {1, 2, 3, 4, 5}
+```
+### frozenset
+Unordered collection of unique items, immutable.
+
+```python
+immutable_set = frozenset({1, 2, 3})
+```
+## 6.Boolean Type
+
+### bool
+Represents Boolean values, either True or False
+
+```python
+is_raining = True
+is_sunny = False
+```
