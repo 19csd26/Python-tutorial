@@ -14,3 +14,17 @@ def my_function():
 
 my_function()  # Output: 10
 ```
+## 2. Global Variables
+
+Global variables are defined outside of any function or class and have global scope, meaning they can be accessed from anywhere in the code.
+
+Example:
+```python
+x = 10  # Global variable
+
+def my_function():
+    print(x)
+
+my_function()  # Output: 10
+
+```
