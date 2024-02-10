@@ -7,7 +7,7 @@ In Python, decision-making refers to the process of executing different code blo
 The `if` statement is used to execute a block of code if a specified condition is true.
 
 <p align="center">
-  <img src="python-if-statement.png" alt="Image" width="200">
+  <img src="./Image/python-if-statement.png" alt="Image" width="200">
 </p>
 <h3>Example:</h3>
 
