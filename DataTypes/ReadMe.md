@@ -87,3 +87,31 @@ Represents Boolean values, either True or False
 is_raining = True
 is_sunny = False
 ```
+## 7.Binary Types
+
+### bytes
+Represents a sequence of bytes, immutable.
+
+```python
+binary_data = b'hello'
+```
+### bytearray
+Mutable version of bytes.
+
+```python
+mutable_binary_data = bytearray(b'hello')
+```
+### memoryview
+Provides a memory view of a sequence of bytes.
+
+```python
+mv = memoryview(b'hello')
+```
+## 8.None Type:
+
+### None
+Represents the absence of a value or a null value.
+
+```python
+no_value = None
+```
