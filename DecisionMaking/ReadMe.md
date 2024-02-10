@@ -24,7 +24,7 @@ if x > 5:
 The if-else statement is used to execute one block of code if the condition is true and another block if the condition is false.
 
 <p align="center">
-  <img src="DecisionMaking/Image" alt="Image" width="200">
+  <img src="DecisionMaking/Image/python-if-else-statement.png" alt="Image" width="200">
 </p>
 <h3>Example:</h3>
 
