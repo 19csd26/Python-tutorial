@@ -1,7 +1,8 @@
 # Types of Variables in Python
 
 In Python, variables can be categorized into different types based on their scope and lifetime. Understanding these types is essential for writing efficient and maintainable code.
-#Note: These are the main types of variables in Python, each with its own scope and usage. Understanding them is crucial for writing clear and effective Python code.
+
+# Note: These are the main types of variables in Python, each with its own scope and usage. Understanding them is crucial for writing clear and effective Python code.
 
 ## 1. Local Variables
 
