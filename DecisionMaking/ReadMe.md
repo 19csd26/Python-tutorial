@@ -10,7 +10,9 @@ The `if` statement is used to execute a block of code if a specified condition i
   <img src="python-if-statement.png" alt="Image" width="200">
 </p>
 <h3>Example:</h3>
+
 ```python
+
 x = 10
 
 if x > 5:
