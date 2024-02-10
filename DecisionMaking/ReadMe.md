@@ -16,6 +16,7 @@ x = 10
 if x > 5:
     print("x is greater than 5")
 ```
+
 ## 2. if-else Statement
 
 The if-else statement is used to execute one block of code if the condition is true and another block if the condition is false.
