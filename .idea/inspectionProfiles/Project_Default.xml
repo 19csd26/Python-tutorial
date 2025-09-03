@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="WARNING" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <list>
+          <option value="asyncpg" />
+          <option value="arrow" />
+          <option value="APScheduler" />
+          <option value="databases" />
+          <option value="ocpp" />
+          <option value="httpx" />
+          <option value="psycopg2-binary" />
+          <option value="python-dotenv" />
+          <option value="pytz" />
+          <option value="SQLAlchemy" />
+          <option value="uvicorn" />
+          <option value="uvloop" />
+          <option value="simplejson" />
+          <option value="jsonschema" />
+          <option value="jsonschema-specifications" />
+          <option value="elasticsearch" />
+          <option value="opentelemetry-distro" />
+          <option value="opentelemetry-exporter-otlp" />
+          <option value="opentelemetry-instrumentation-fastapi" />
+          <option value="opentelemetry-instrumentation-requests" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="opentelemetry.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
